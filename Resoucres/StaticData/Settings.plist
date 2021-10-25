@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ServerIP</key>
+	<string>https://api.darksky.net/forecast/bd239dbd0252a2b6e7c596fbf5cdc302/</string>
+	<key>AvailabilityHostToCheck</key>
+	<string>www.google.com</string>
+</dict>
+</plist>
